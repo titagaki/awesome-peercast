@@ -29,6 +29,7 @@ PeerCastに関連するソフトウェア、ライブラリ、ツール、およ
 ## プレイヤー
 - [PeerstPlayer](https://github.com/shule517/PeerstPlayer) - PeerCast実況用プレイヤー。
 - [epcviewer](https://github.com/mrhorin/epcviewer) - electron製peercast実況用のBBSブラウザ。
+- [PeCaRecorder](http://pecatv.s25.xrea.com/) - プレイヤーと連携する録音/録画ツール。
 
 ## ライブラリ・開発ツール
 - [peercast-pcp](https://github.com/titagaki/peercast-pcp) - PeerCast Protocol (PCP) を解釈するための Go 言語ライブラリ。
