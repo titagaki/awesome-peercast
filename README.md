@@ -14,6 +14,8 @@ PeerCastに関連するソフトウェア、ライブラリ、ツール、およ
 ## 本体・クライアント
 - [PeerCastStation](https://github.com/kumaryu/peercaststation) - 本体クライアント。
 - [peercast-yt](https://github.com/plonk/peercast-yt) - 現在広く使われているPeerCastの派生版。
+- [PeerCast Qt](https://mosax.sakura.ne.jp/projects/peercast-qt/) - Qtベースのクライアント。
+- [PeerCast for Linux + VP patch + fixed compile bug](https://github.com/kimoto/peercast) - PeerCast for Linux + VP patch + fixed compile bug。
 
 ## イエローページ (YP)
 - [p@yp](https://github.com/progre/pp) - YPクライアント/ツール。
