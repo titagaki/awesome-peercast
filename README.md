@@ -22,7 +22,7 @@ PeerCastに関連するソフトウェア、ライブラリ、ツール、およ
 ## 読み上げツール
 - [unacast](https://github.com/pasta04/unacast) - 読み上げツール。
 - [SpeechCast](https://github.com/ggslyman/SpeechCast) - 読み上げツール。
-- [jpnkn-fast-onecomme-bridge](https://github.com/...) - Jpnkn APIとわんコメを接続するブリッジツール。
+- [jpnkn-fast-onecomme-bridge](https://github.com/titagaki/jpnkn-onecomme-bridge) - Jpnkn APIとわんコメを接続するブリッジツール。
 
 ## プレイヤー
 - [PeerstPlayer](https://github.com/shule517/PeerstPlayer) - PeerCast実況用プレイヤー。
