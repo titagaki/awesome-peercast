@@ -1,4 +1,4 @@
-# Awesome PeerCast JP
+# Awesome PeerCast
 
 PeerCastに関連するソフトウェア、ライブラリ、ツール、およびリソースをまとめたリストです。
 
